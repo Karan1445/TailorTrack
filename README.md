@@ -1,16 +1,31 @@
-# mresurement
+# ✂️ TailorTrack – Client Measurement Management  
 
-A new Flutter project.
+🚀 **A Flutter-based mobile app to manage client measurements efficiently.**  
+🔹 Securely stores & retrieves measurements using **Firebase Firestore**.  
+🔹 Designed for **tailors** to streamline measurement tracking & order management.  
+🔹 Includes **multilingual support, PDF generation, and call functionality**.  
 
-## Getting Started
+## 🌟 Features  
+✅ **Modern, Intuitive UI** – Smooth animations & elegant design.  
+✅ **Measurement Management** – Store, update, & retrieve client data.  
+✅ **PDF Generation** – Export measurements as a PDF with multilingual support.  
+✅ **Call Functionality** – Directly contact clients from the app.  
+✅ **Cloud Storage** – Secure Firebase Firestore integration.  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Frontend**: Flutter (Dart)  
+- **Backend**: Firebase Firestore  
+- **Authentication**: Firebase Auth  
+- **Storage**: Firebase Storage  
+- **State Management**: Provider  
+- **PDF Generation**: Syncfusion Flutter PDF  
+- **Deployment**: Google Play Store  
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots  
+🔹 *(Add app UI screenshots here to showcase the design!)*  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started  
+### Clone the Repository  
+```bash
+git clone https://github.com/Karan1445/TailorTrack.git
+cd TailorTrack
