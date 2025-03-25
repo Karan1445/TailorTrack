@@ -21,9 +21,6 @@
 - **PDF Generation**: Syncfusion Flutter PDF  
 - **Deployment**: Google Play Store  
 
-## 📱 Screenshots  
-🔹 *(Add app UI screenshots here to showcase the design!)*  
-
 ## 🚀 Getting Started  
 ### Clone the Repository  
 ```bash
