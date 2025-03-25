@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291550105668",
+    "project_id": "mapbook-a25b4",
+    "storage_bucket": "mapbook-a25b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291550105668:android:5fb7cb601196f0cdadec11",
+        "android_client_info": {
+          "package_name": "com.example.mresurement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaPF4bqR0r6gCT0I0PX040EEP22sYfOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
